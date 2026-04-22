@@ -2,3 +2,4 @@ hi,
 
 class register:
 	....
+def reg:
